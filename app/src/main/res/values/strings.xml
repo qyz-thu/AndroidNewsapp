@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="message">Hello World?\nHow are you?</string>
+    <string name="edit_message">Input</string>
+    <string name="button_send">Send</string>
+    <string name="msg_activity">New Activity</string>
+    <string name="action_search">Search</string>
+</resources>
